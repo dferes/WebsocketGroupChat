@@ -1,6 +1,6 @@
 ## Websocket Group Chat
 
-A simple app for messaging instant messaging, built with Node.js, Express, HTML and CSS.
+A very simple app for instant messaging, built with Node.js, Express, HTML and CSS.
 
 
 ## Installation and Setup Instructions
